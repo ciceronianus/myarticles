@@ -36,7 +36,7 @@ Published: September 13, 2020 <br/>
   <b>Needs an update</b>
 </details>
 
-## CSS for Roam - other articles
+## CSS for Roam - Other articles
   <details>
   <summary><a href="https://catominor3.medium.com/2-surprising-ways-how-to-add-icons-in-3-formats-to-roam-69a16bb33ed1">2 surprising ways how to add icons in 3 formats to Roam: Destroy the anonymous wall of bullets!</a></summary>
    Published: November 1, 2020 <br/>
@@ -100,7 +100,7 @@ Published: October 5, 2020
    Published: May 9, 2021
    </details>
    
-     <details>
+  <details>
   <summary><a href="https://catominor3.medium.com/3-roams-quirky-elements-hidden-text-or-and-latex-705c94907762">3 Roam’s Quirks: ((hidden text)), {{or: }} and LaTeX</a></summary>
    Published: May 11, 2021
    </details>
@@ -126,7 +126,8 @@ Published: December 20, 2020
 Published: May 12, 2020 
 
   </details>
-  # Other topics
+
+# Other topics
 
 <details>
   <summary><a href="https://catominor3.medium.com/installing-minecraft-on-lenovo-chromebook-duet-9c67fc1b2bcf">Installing Minecraft on Lenovo Chromebook Duet: ARM struggle with an Happy End</a></summary>
@@ -135,4 +136,12 @@ Published: November 28, 2020
   </details>
   
   
+  <hr />
+  If you like my work, follow me on <a href="https://twitter.com/CatoMinor3">Twitter</a>, check <a href="https://roamresearch.com/#/app/CatoMinor-public/page/FhtBdGjOL">my personal public collection of hack</a> and <a href="https://github.com/ciceronianus/roam-customization">repository on GitHub</a>.
+  
+  # Support
+  - [Patreon](https://www.patreon.com/catominor)
+  - [PayPal](https://paypal.me/catominor3)
+
+Thank you! :) 
   
