@@ -52,13 +52,12 @@ Links to my articles from Medium and other places on Roam and other things.
 <details>
   <summary><a href="https://catominor3.medium.com/javascript-for-roam-introduction-f19f82ca297">JavaScript for Roam (introduction):console.log(“Hello Roam”)</a></summary>
 Published: October 5, 2020
+</details>
 
-</details.
     <details>
   <summary><a href="https://betterprogramming.pub/5-1-weird-hidden-and-unexpected-features-in-roam-research-that-you-might-not-know-6e7419efab70">6 Unusual, Hidden, or Unexpected Features in Roam Research That You Might Not Know</a></summary>
-   Published: October 19, 2020 <br/>    
-  
-  </details> 
+   Published: October 19, 2020 
+    </details> 
   
      <details>
   <summary><a href="https://catominor3.medium.com/latex-for-roam-from-non-math-perspective-d86fd0a2a9c2">LaTeX for Roam from non-math perspective:Use it for interesting font creations, simple diagrams and fun</a></summary>
@@ -89,6 +88,13 @@ Published: October 5, 2020
   <summary><a href="https://catominor3.medium.com/make-roam-for-your-mind-9e7f09e6a7b0">Make Roam for Your Mind: Ode to Customization</a></summary>
 Published: September 13, 2020 <br/>
  Last update: October 25, 2020
+
+  </details>
+  
+    <details>
+  <summary><a href="https://catominor3.medium.com/chaotic-and-inefficient-note-taking-in-roam-in-defense-of-my-mess-12de3487da04">Chaotic and Inefficient Note-taking in Roam: In Defense of (My) Mess: And I like it!
+</a></summary>
+Published: December 20, 2020 
 
   </details>
   
