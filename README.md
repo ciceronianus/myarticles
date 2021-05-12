@@ -9,8 +9,7 @@ Links to my articles from Medium and other places on Roam and other things.
 
 ## Other aspects of Roam
 <details>
-  <summary>Make Roam for Your Mind: Ode to Customization</summary>
-[Story on Medium](https://catominor3.medium.com/make-roam-for-your-mind-9e7f09e6a7b0)
+  <summary><a href="https://catominor3.medium.com/make-roam-for-your-mind-9e7f09e6a7b0">Make Roam for Your Mind: Ode to Customization</a></summary>
 Published on Sep 13, 2020
 
   </details>
