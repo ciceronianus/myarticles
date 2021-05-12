@@ -33,7 +33,7 @@ Links to my articles from Medium and other places on Roam and other things.
 ## CSS for Roam - other articles
   <details>
   <summary><a href="https://catominor3.medium.com/2-surprising-ways-how-to-add-icons-in-3-formats-to-roam-69a16bb33ed1">2 surprising ways how to add icons in 3 formats to Roam: Destroy the anonymous wall of bullets!</a></summary>
-   Published: November 1, 2020 </br>
+   Published: November 1, 2020 <br/>
    <b>Needs a small update</b>
    </details>
    
@@ -68,7 +68,7 @@ Published: October 5, 2020
 
      <details>
   <summary><a href="https://betterprogramming.pub/roamext-roam-extended-a-little-piece-of-code-with-mighty-power-a18184c0c5be">ROAMEXT — Roam Research Extended: A Little Piece of Code With Mighty Power: Better styling in Roam</a></summary>
-   Published: November 24, 2020 </br>
+   Published: November 24, 2020 <br/>
    Last update: December 15, 2020
    </details>
 
