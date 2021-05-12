@@ -6,6 +6,12 @@ Links to my articles from Medium and other places on Roam and other things.
 
 ## CSS for Roam - Main series
 <details>
+  <summary><a href="https://catominor3.medium.com/make-roam-for-your-mind-9e7f09e6a7b0">Make Roam for Your Mind: Ode to Customization</a></summary>
+Published: September 13, 2020 <br/>
+ Last update: October 25, 2020
+</details>
+
+<details>
   <summary><a href="https://catominor3.medium.com/roam-with-style-8a18c216d338">CSS for Roam (1st lesson): Roam with Style</a></summary>
    Published: September 21, 2020 <br/>    
   Last update: December 26, 2020
@@ -47,6 +53,18 @@ Links to my articles from Medium and other places on Roam and other things.
   <summary><a href="https://catominor3.medium.com/arrival-of-direct-formatting-into-roam-3-fascinating-use-cases-1c5bd5b0540f">Arrival Of Direct* Formatting** Into Roam: 3 Fascinating Use Cases: * Almost ** Requires a little bit of CSS</a></summary>
    Published: December 18, 2020 
    </details>
+   
+<details>
+  <summary><a href="https://catominor3.medium.com/7-pure-css-tricks-to-give-roam-the-christmas-mood-and-theme-df6db59e7ed8">7 Pure CSS Tricks to Give Roam the Christmas Mood and Theme: Will you be good or naughty?</a></summary>
+   Published: December 13, 2020 
+   </details>
+   
+   <details>
+  <summary><a href="https://blog.usejournal.com/css-for-roam-beautiful-and-mighty-checkboxes-1-8626caba4f2c">CSS for Roam — Beautiful and Mighty Checkboxes (1)</a></summary>
+   Published: May 2, 2021 
+   </details>
+   
+   
 
 ## Other aspects of Roam
 <details>
@@ -76,6 +94,16 @@ Published: October 5, 2020
   <summary><a href="https://catominor3.medium.com/in-the-search-for-missing-blockquotes-in-roam-5-reasonable-solutions-ddcd99127cca">The Article That Inspired Roam to Implement Blockquotes: 5 Now Luckily Unnecessary Solutions and How to Do Them Properly: This article is completely unnecessary — but still funny!</a></summary>
    Published: December 4, 2020
    </details>
+   
+  <details>
+  <summary><a href="https://catominor3.medium.com/queries-in-roam-1st-part-plentiful-and-a-little-bit-confusing-3f5bcb9865a5">Queries in Roam (1st part): Plentiful and a little bit confusing</a></summary>
+   Published: May 9, 2021
+   </details>
+   
+     <details>
+  <summary><a href="https://catominor3.medium.com/3-roams-quirky-elements-hidden-text-or-and-latex-705c94907762">3 Roam’s Quirks: ((hidden text)), {{or: }} and LaTeX</a></summary>
+   Published: May 11, 2021
+   </details>
 
 
 ## Opinions on Roam
@@ -84,11 +112,7 @@ Published: October 5, 2020
   Published: September 6, 2020 
   </details>
   
-<details>
-  <summary><a href="https://catominor3.medium.com/make-roam-for-your-mind-9e7f09e6a7b0">Make Roam for Your Mind: Ode to Customization</a></summary>
-Published: September 13, 2020 <br/>
- Last update: October 25, 2020
-</details>
+
   
 <details>
   <summary><a href="https://catominor3.medium.com/chaotic-and-inefficient-note-taking-in-roam-in-defense-of-my-mess-12de3487da04">Chaotic and Inefficient Note-taking in Roam: In Defense of (My) Mess: And I like it!
@@ -96,7 +120,12 @@ Published: September 13, 2020 <br/>
 Published: December 20, 2020 
 
   </details>
-  
+  <details>
+  <summary><a href="https://catominor3.medium.com/roam-and-my-fear-of-missing-out-9e429cfb954b">Roam and My Fear Of Missing Out
+</a></summary>
+Published: May 12, 2020 
+
+  </details>
   # Other topics
 
 <details>
@@ -104,4 +133,6 @@ Published: December 20, 2020
 Published: November 28, 2020 
 
   </details>
+  
+  
   
