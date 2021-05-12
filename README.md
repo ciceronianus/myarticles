@@ -84,14 +84,13 @@ Published: October 5, 2020
   Published: September 6, 2020 
   </details>
   
-  <details>
+<details>
   <summary><a href="https://catominor3.medium.com/make-roam-for-your-mind-9e7f09e6a7b0">Make Roam for Your Mind: Ode to Customization</a></summary>
 Published: September 13, 2020 <br/>
  Last update: October 25, 2020
-
-  </details>
+</details>
   
-    <details>
+<details>
   <summary><a href="https://catominor3.medium.com/chaotic-and-inefficient-note-taking-in-roam-in-defense-of-my-mess-12de3487da04">Chaotic and Inefficient Note-taking in Roam: In Defense of (My) Mess: And I like it!
 </a></summary>
 Published: December 20, 2020 
