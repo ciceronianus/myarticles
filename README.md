@@ -9,8 +9,16 @@ Links to my articles from Medium and other places on Roam and other things.
 
 ## Other aspects of Roam
 <details>
+  <summary><a href="https://catominor3.medium.com/roam-with-style-8a18c216d338">CSS for Roam (1st lesson): Roam with Style</a><summary>
+   Published: September 21, 2020
+    Last update: December 26, 2020
+  
+  </details>
+
+<details>
   <summary><a href="https://catominor3.medium.com/make-roam-for-your-mind-9e7f09e6a7b0">Make Roam for Your Mind: Ode to Customization</a></summary>
-Published on Sep 13, 2020
+Published: September 13, 2020
+ Last update: October 25, 2020
 
   </details>
 
@@ -18,7 +26,6 @@ Published on Sep 13, 2020
 
 ## Opinions on Roam
 <details>
-  <summary>Quo vadis, Roamresearch? Delta or Beta?</summary>
-  [Story on Medium]((https://catominor3.medium.com/quo-vadis-roamresearch-delta-or-beta-4c598d463e86)
-  Published on Sep 6, 2020
+  <summary><a href="https://catominor3.medium.com/quo-vadis-roamresearch-delta-or-beta-4c598d463e86">Quo vadis, Roamresearch? Delta or Beta?</a></summary>
+  Published: September 6, 2020
   </details>
