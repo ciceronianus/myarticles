@@ -5,19 +5,27 @@ Links to my articles from Medium and other places on Roam and other things.
 # Roam 
 
 ## CSS for Roam
-
-
-## Other aspects of Roam
 <details>
-  <summary><a href="https://catominor3.medium.com/roam-with-style-8a18c216d338">CSS for Roam (1st lesson): Roam with Style</a><summary>
-   Published: September 21, 2020
-    Last update: December 26, 2020
+  <summary><a href="https://catominor3.medium.com/roam-with-style-8a18c216d338">CSS for Roam (1st lesson): Roam with Style</a></summary>
+   Published: September 21, 2020 <br/>    
+  Last update: December 26, 2020
+  
+  </details>
+  
+  <details>
+  <summary><a href="https://catominor3.medium.com/css-for-roam-2-lesson-ed89d0419a01">CSS for Roam (2nd lesson): Power of #tags and [[pages]]</a></summary>
+   Published: September 28, 2020 <br/>    
+  Last update: December 27, 2020
   
   </details>
 
+## Other aspects of Roam
+
+
+
 <details>
   <summary><a href="https://catominor3.medium.com/make-roam-for-your-mind-9e7f09e6a7b0">Make Roam for Your Mind: Ode to Customization</a></summary>
-Published: September 13, 2020
+Published: September 13, 2020 <br/>
  Last update: October 25, 2020
 
   </details>
