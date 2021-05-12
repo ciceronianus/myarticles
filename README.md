@@ -35,15 +35,15 @@ Links to my articles from Medium and other places on Roam and other things.
   <summary><a href="https://catominor3.medium.com/2-surprising-ways-how-to-add-icons-in-3-formats-to-roam-69a16bb33ed1">2 surprising ways how to add icons in 3 formats to Roam: Destroy the anonymous wall of bullets!</a></summary>
    Published: November 1, 2020 <br/>
    <b>Needs a small update</b>
-   </details>
+  </details>
    
-     <details>
+  <details>
   <summary><a href="https://catominor3.medium.com/where-am-i-highlighting-the-scope-in-roam-b8510dced4b4">Where am I? Highlighting the Scope in Roam: Pure CSS Way</a></summary>
    Published: December 13, 2020 
-   </details>
+  </details>
    
       
-     <details>
+<details>
   <summary><a href="https://catominor3.medium.com/arrival-of-direct-formatting-into-roam-3-fascinating-use-cases-1c5bd5b0540f">Arrival Of Direct* Formatting** Into Roam: 3 Fascinating Use Cases: * Almost ** Requires a little bit of CSS</a></summary>
    Published: December 18, 2020 
    </details>
@@ -54,19 +54,19 @@ Links to my articles from Medium and other places on Roam and other things.
 Published: October 5, 2020
 </details>
 
-    <details>
+<details>
   <summary><a href="https://betterprogramming.pub/5-1-weird-hidden-and-unexpected-features-in-roam-research-that-you-might-not-know-6e7419efab70">6 Unusual, Hidden, or Unexpected Features in Roam Research That You Might Not Know</a></summary>
    Published: October 19, 2020 
     </details> 
   
-     <details>
+  <details>
   <summary><a href="https://catominor3.medium.com/latex-for-roam-from-non-math-perspective-d86fd0a2a9c2">LaTeX for Roam from non-math perspective:Use it for interesting font creations, simple diagrams and fun</a></summary>
    Published: November 1, 2020 
 </details>
 
    
 
-     <details>
+ <details>
   <summary><a href="https://betterprogramming.pub/roamext-roam-extended-a-little-piece-of-code-with-mighty-power-a18184c0c5be">ROAMEXT — Roam Research Extended: A Little Piece of Code With Mighty Power: Better styling in Roam</a></summary>
    Published: November 24, 2020 <br/>
    Last update: December 15, 2020
