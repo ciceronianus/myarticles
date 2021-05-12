@@ -1,6 +1,6 @@
-Links to my articles from Medium and other places on Roam and other things.
+<b>Links to my articles from Medium and other places on Roam and other things.</b>
 
-! You can find friendly (i.e. free links) to all my articles on Medium in my posts on Twitter - @catominor3 !
+You can find friendly (i.e. free links) to all my articles on Medium in my posts on Twitter - [@catominor3](https://twitter.com/CatoMinor3)!
 
 # Roam 
 
