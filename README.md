@@ -134,6 +134,12 @@ Published: May 12, 2020
 Published: November 28, 2020 
 
   </details>
+  <details>
+  <summary><a href="https://catominor3.medium.com/onyx-boox-remarkable-827830722f67">Onyx Boox + reMarkable = ❤</a></summary>
+Published: May 13, 2021 
+
+  </details>
+  
   
   
   <hr />
