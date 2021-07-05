@@ -119,18 +119,10 @@ Published: October 5, 2020
 Published: December 20, 2020 
   </details>
   
-  <details>
-  <summary><a href="https://catominor3.medium.com/roam-and-my-fear-of-missing-out-9e429cfb954b">Roam and My Fear Of Missing Out
-</a></summary>
-Published: May 12, 2020 
-  </details>
+<details><summary><a href="https://catominor3.medium.com/roam-and-my-fear-of-missing-out-9e429cfb954b">Roam and My Fear Of Missing Out</a></summary>Published: May 12, 2020 </details>
   
-  
-    <details>
-  <summary><a href="https://medium.com/geekculture/roaming-without-stability-where-roam-could-be-improved-43cb8997c326">Roaming Without Stability — Where Roam Could Be Improved
-</a></summary>
-Published: June 22, 2021 
-  </details>
+<details><summary><a href="https://medium.com/geekculture/roaming-without-stability-where-roam-could-be-improved-43cb8997c326">Roaming Without Stability — Where Roam Could Be Improved
+</a></summary>Published: June 22, 2021 </details>
   
   
 
@@ -156,11 +148,7 @@ Published: November 28, 2020
   </details>
 
 # Personal topics
-  <details>
-  <summary><a href="https://catominor3.medium.com/my-curse-of-contrarianism-e718094c42be">My Curse of Contrarianism</a></summary>
-Published on June 12, 2021 
-
-  </details>
+<details><summary><a href="https://catominor3.medium.com/my-curse-of-contrarianism-e718094c42be">My Curse of Contrarianism</a></summary> Published on June 12, 2021</details>
  
   
   <hr />
