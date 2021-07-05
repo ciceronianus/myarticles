@@ -120,27 +120,54 @@ Published: October 5, 2020
 Published: December 20, 2020 
 
   </details>
+  
   <details>
   <summary><a href="https://catominor3.medium.com/roam-and-my-fear-of-missing-out-9e429cfb954b">Roam and My Fear Of Missing Out
 </a></summary>
 Published: May 12, 2020 
 
   </details>
-
-# Other topics
-
-<details>
-  <summary><a href="https://catominor3.medium.com/installing-minecraft-on-lenovo-chromebook-duet-9c67fc1b2bcf">Installing Minecraft on Lenovo Chromebook Duet: ARM struggle with an Happy End</a></summary>
-Published: November 28, 2020 
+  
+  
+    <details>
+  <summary><a href="https://medium.com/geekculture/roaming-without-stability-where-roam-could-be-improved-43cb8997c326">Roaming Without Stability — Where Roam Could Be Improved
+</a></summary>
+Published: June 22, 2021 
 
   </details>
+  
+  
+
+
+# E-readers 
   <details>
   <summary><a href="https://catominor3.medium.com/onyx-boox-remarkable-827830722f67">Onyx Boox + reMarkable = ❤</a></summary>
 Published: May 13, 2021 
 
   </details>
   
-  
+    <details>
+  <summary><a href="https://catominor3.medium.com/onyx-boox-e-ink-tablet-in-search-for-multitasking-19f72d55a688">Onyx Boox E-ink Tablet: In Search For Multitasking
+</a></summary>
+Published on July 4, 2021
+
+  </details>
+
+# Other topics on technology
+
+<details>
+  <summary><a href="https://catominor3.medium.com/installing-minecraft-on-lenovo-chromebook-duet-9c67fc1b2bcf">Installing Minecraft on Lenovo Chromebook Duet: ARM struggle with an Happy End</a></summary>
+Published: November 28, 2020 
+
+  </details>
+
+# Personal topics
+  <details>
+  <summary><a href="https://catominor3.medium.com/my-curse-of-contrarianism-e718094c42be">My Curse of Contrarianism</a></summary>
+Published on June 12, 2021 
+
+  </details>
+ 
   
   <hr />
   If you like my work, follow me on <a href="https://twitter.com/CatoMinor3">Twitter</a>, check <a href="https://roamresearch.com/#/app/CatoMinor-public/page/FhtBdGjOL">my personal public collection of hack</a> and <a href="https://github.com/ciceronianus/roam-customization">repository on GitHub</a>.
