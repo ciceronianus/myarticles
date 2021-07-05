@@ -113,19 +113,16 @@ Published: October 5, 2020
   </details>
   
 
-  
 <details>
   <summary><a href="https://catominor3.medium.com/chaotic-and-inefficient-note-taking-in-roam-in-defense-of-my-mess-12de3487da04">Chaotic and Inefficient Note-taking in Roam: In Defense of (My) Mess: And I like it!
 </a></summary>
 Published: December 20, 2020 
-
   </details>
   
   <details>
   <summary><a href="https://catominor3.medium.com/roam-and-my-fear-of-missing-out-9e429cfb954b">Roam and My Fear Of Missing Out
 </a></summary>
 Published: May 12, 2020 
-
   </details>
   
   
@@ -133,7 +130,6 @@ Published: May 12, 2020
   <summary><a href="https://medium.com/geekculture/roaming-without-stability-where-roam-could-be-improved-43cb8997c326">Roaming Without Stability — Where Roam Could Be Improved
 </a></summary>
 Published: June 22, 2021 
-
   </details>
   
   
@@ -143,15 +139,13 @@ Published: June 22, 2021
   <details>
   <summary><a href="https://catominor3.medium.com/onyx-boox-remarkable-827830722f67">Onyx Boox + reMarkable = ❤</a></summary>
 Published: May 13, 2021 
-
   </details>
   
-    <details>
-  <summary><a href="https://catominor3.medium.com/onyx-boox-e-ink-tablet-in-search-for-multitasking-19f72d55a688">Onyx Boox E-ink Tablet: In Search For Multitasking
+<details>
+<summary><a href="https://catominor3.medium.com/onyx-boox-e-ink-tablet-in-search-for-multitasking-19f72d55a688">Onyx Boox E-ink Tablet: In Search For Multitasking
 </a></summary>
 Published on July 4, 2021
-
-  </details>
+</details>
 
 # Other topics on technology
 
